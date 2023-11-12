@@ -45,7 +45,7 @@
     },
     {
       "id": 4,
-      "images": ["IMG1_1", "IMG1_2", "IMG1_3", "IMG1_4", "IMG4"],
+      "images": ["IMG1_1.png", "IMG1_2.png", "IMG1_3.png", "IMG1_4.png", "IMG4.png"],
       "name": "Plain console with teak mirror",
       "price": 20,
       "description": "Description for Product 2",
